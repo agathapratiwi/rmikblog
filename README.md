@@ -1,5 +1,3 @@
-jangan lihat disini
-disini tidak ada apa-apa
-halaman masih kosong 
+cek toko sebelah
 .
 created by agatha 
