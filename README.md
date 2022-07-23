@@ -1,3 +1,3 @@
-cek toko sebelah
-. 
+cek toko sebelah. 
+
 created by agatha 
